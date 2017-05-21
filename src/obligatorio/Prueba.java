@@ -273,6 +273,7 @@ public class Prueba {
             System.out.println("El local está en infraccion");
         } else { 
             System.out.println("El local no está en infracción"); 
+            System.out.println("Probando cambio git");
         }
     }
 }
